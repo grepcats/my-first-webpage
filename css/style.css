@@ -1,0 +1,24 @@
+h1 {
+  color: #A90505;
+  font-weight: lighter;
+}
+
+h2 {
+  font-family: cursive;
+  font-size: 30px;
+  text-align: center;
+  color: #339EFF;
+}
+
+img {
+  height: 300px;
+}
+
+li {
+  line-height: 30px;
+}
+
+a {
+  text-decoration: none;
+  font-style: italic;
+}
